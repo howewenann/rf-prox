@@ -8,7 +8,7 @@ colorama==0.4.3
 future==0.18.2
 idna==2.9
 isort==4.3.21
-Jinja2==2.11.1
+Jinja2==2.11.3
 jinja2-time==0.2.0
 joblib==0.14.1
 lazy-object-proxy==1.4.3
